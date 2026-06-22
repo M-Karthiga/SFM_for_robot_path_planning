@@ -1,7 +1,6 @@
 # Social Force Model for Autonomous Robot Navigation
 
-> TurtleBot4 path planning using the Helbing & Molnar (1995) Social Force Model,
-> A\* global planning, anticipatory dynamic obstacle avoidance, and anticipatory dynamic avoidance.
+A two-layer navigation stack combining A* path planning with a reactive Social Force Model for real-time collision avoidance in a cluttered 2-D indoor environment — implemented in MATLAB for a TurtleBot4 mobile robot.
 
 ## Demo
 
