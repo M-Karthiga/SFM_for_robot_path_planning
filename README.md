@@ -49,6 +49,9 @@ For full mathematical derivation see [`docs/SFM_Robot_Navigation.pdf`](docs/SFM_
 - **Dynamic obstacles**: 3–5 agents following sinusoidal trajectories
 - **Start**: randomised in Entry Hall | **Goal**: randomised in Main Office
 
+  <img width="695" height="531" alt="image" src="https://github.com/user-attachments/assets/8361a167-62ff-4cf3-a1ae-169949cb03a6" />
+
+
 ---
 
 ## Requirements
