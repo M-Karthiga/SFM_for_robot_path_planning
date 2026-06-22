@@ -1,7 +1,7 @@
 # Social Force Model for Autonomous Robot Navigation
 
 > TurtleBot4 path planning using the Helbing & Molnar (1995) Social Force Model,
-> A\* global planning, anticipatory dynamic obstacle avoidance, and anti-stuck recovery.
+> A\* global planning, anticipatory dynamic obstacle avoidance, and anticipatory dynamic avoidance.
 
 ## Demo
 
