@@ -66,7 +66,7 @@ For full mathematical derivation see [`docs/SFM_Robot_Navigation.pdf`](docs/SFM_
 
 ```matlab
 % Clone the repo, open MATLAB, navigate to src/, then:
-run('run_single_agent_with_anti_stuck.m')
+run('run_single_agent.m')
 ```
 
 Set `SAVE_VIDEO = true` and update `videoPath` in the script to export MP4.
