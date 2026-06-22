@@ -5,7 +5,7 @@
 
 ## Demo
 
-[![Watch the simulation](https://drive.google.com/file/d/1-EoEraLEPfZRc0cRlneEOtBvpLT7s2xx/view?usp=sharing)
+(https://drive.google.com/file/d/1-EoEraLEPfZRc0cRlneEOtBvpLT7s2xx/view?usp=sharing)
 
 *Robot navigates from Entry Hall → Corridor → Lab Room → Main Office in a
 randomised floor plan with static and sinusoidally moving dynamic obstacles.*
@@ -102,7 +102,3 @@ Each run is randomised via `rng('shuffle')` — no two runs are identical.
    Nature, 407, 2000.
 
 ---
-
-## License
-
-MIT License — see [`LICENSE`](LICENSE) for details.
